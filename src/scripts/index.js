@@ -3,4 +3,6 @@ import '../styles/index.scss';
 console.log('webpack starterkit');
 
 
-import './recap/array';
+// Recap
+// import './recap/array';
+import './recap/getters-setters';
